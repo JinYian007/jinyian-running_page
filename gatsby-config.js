@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: '晋易安的跑步旅程',
     siteUrl: 'https://jinyian-running-page.vercel.app/',
-    logo: 'http://cdn.eqianqian001.com/OtherImg/Running_Page%20logo.png',
+    logo: 'https://www.eqianqian001.com/usr/uploads/2022/04/3696542279.png',
     description: 'Personal site and blog',
     navLinks: [
       {
