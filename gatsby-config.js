@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: '晋易安的跑步旅程',
-    siteUrl: 'https://jinyian-running-page.vercel.app/',
+    siteUrl: 'https://run.eqianqian001.com/',
     logo: 'https://www.eqianqian001.com/usr/uploads/2022/04/3696542279.png',
     description: 'Personal site and blog',
     navLinks: [
