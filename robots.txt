@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://jinyian-running-page.vercel.app/sitemap/sitemap-index.xml
-Host: https://jinyian-running-page.vercel.app
+Sitemap: https://run.eqianqian001.com/sitemap/sitemap-index.xml
+Host: https://run.eqianqian001.com
