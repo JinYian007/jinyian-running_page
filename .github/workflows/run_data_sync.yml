@@ -114,8 +114,6 @@ jobs:
         
     
       - name: Push new runs
-        uses: github-actions-x/commit@v2.6
-        run: git config --global --add safe.directory /JinYian007/jinyian-running_page
         with:
           github-token: ${{ secrets.G_T }}
           commit-message: "Add new runs"
