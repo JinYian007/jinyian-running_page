@@ -35,4 +35,4 @@ jobs:
     - name: Run isort
       run: isort --profile black  **/**/*.py -c -v 
     - name: work around permission issue
-      run: git config --global --add safe.directory /JinYian007/jinyian-running_page
+      run: sudo git config --global --add safe.directory /JinYian007/jinyian-running_page
